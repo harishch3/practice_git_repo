@@ -1,5 +1,6 @@
 <?php
 
+// i forgot this code
 /**
  * Displays site name.
  */
