@@ -7,7 +7,4 @@ require 'functions.php';
 // Just adding comment
 // Just adding comment
 // Just adding comment
-// Just adding comment
-// Just adding comment
-// Just adding comment
 run();
